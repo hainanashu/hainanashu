@@ -1,4 +1,11 @@
-### Hi there 👋
+## Hi there 👋
+### 🔭 I’m currently working on SEC
+### 🌱 I’m currently learning JAVA and C
+### 👯 I’m looking to collaborate on domain name
+### 🤔 I’m looking for help with  "change the world"
+### 💬 Ask me about  "domain name " quensts
+### 📫 How to reach me:  hainanashu@163.com
+### ⚡ Fun fact: PaPa.PA
 
 <!--
 **hainanashu/hainanashu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
